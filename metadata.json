@@ -1,0 +1,6 @@
+{
+  "name": "BioLab Assistant",
+  "description": "Interactive biotechnology & life science laboratory learning platform with AI assistant, technique guides, lab safety, calculators, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
